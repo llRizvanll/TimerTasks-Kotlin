@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!--These two arrays list  time intervals in minutes and the text representing
+	that interval. They need to be in sync when anything added, removed or modified   -->
+	
+	<!--Text values of task time intervals -->
+    <string-array name="task_array">
+        <item>Task 1</item>
+        <item>Task 2</item>
+        <item>Task 3</item>
+        <item>Task 4</item>
+        <item>Task 5</item>
+    </string-array>
+    <!--Task time intervals in minutes -->
+    <integer-array name="minutes_array">
+        <item>0</item>
+        <item>5</item>
+        <item>30</item>
+        <item>20</item>
+        <item>25</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+    <string name="task_notification_channel_id" translatable="false">task_channel</string>
+    <string name="notification_title">Task Timer</string>
+    <string name="snooze">Snooze</string>
+    <string name="task_message_body">Task Arrived!</string>
+    <string name="task_channel_description">Task Reminder</string>
+    <string name="task_prompt">how do like the timing of your tasks?</string>
+</resources>
